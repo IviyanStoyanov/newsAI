@@ -1,6 +1,6 @@
-# Your News App
+# NewsAI
 
-Welcome to Your News App! This is a web application that aggregates news headlines from various sources and displays them in a user-friendly interface.
+Welcome to NewsAI! This is a web application that aggregates news headlines from various sources and displays them in a user-friendly interface.
 
 ## Table of Contents
 
