@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Greek mafia boss killed in hail of bullets",
+      "description": "Vangelis Zampounis is thought to have been involved in fuel and tobacco smuggling, as well as extortion.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67993448",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10485/production/_132339666_greek.png",
+      "publishedAt": "2024-01-16T19:07:16.6348516Z",
+      "content": "A mob-style murder at a petrol station in southern Athens has shone a light on the brutality of the Greek mafia.\r\nA manhunt is underway for the killers of crime boss Vangelis Zambounis, who was gunne… [+2248 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Two British brothers banned from Switzerland for museum heist",
+      "description": "The Metropolitan Police issue mugshots of the Ahearne brothers following their sentencing.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67988454",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3916/production/_132341641_copyofuntitleddesign.png",
+      "publishedAt": "2024-01-16T18:52:14.9954747Z",
+      "content": "Two British brothers have been jailed after confessing to breaking into a Geneva museum and stealing iconic 14th century Chinese Ming Dynasty antiques.\r\nStewart and Louis Ahearne admitted to a court … [+3508 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Emmys 2024: Why people are baffled by The Bear's wins",
+      "description": "When the hit show about a restaurant swept last night's awards, many wondered why it was rewarded as a comedy, not a drama. Is it a blow for \"traditional\" comedy?",
+      "url": "https://www.bbc.com/culture/article/20240116-emmys-2024-why-people-are-baffled-by-the-bears-wins",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0h5b4j4.jpg",
+      "publishedAt": "2024-01-16T18:07:20.8537818Z",
+      "content": "By Laura MartinFeatures correspondent\r\nWhen the hit show about a restaurant swept last night's awards, many wondered why it was rewarded as a comedy, not a drama. Is it a blow for \"traditional\" comed… [+6491 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Suspected Gilgo Beach murderer Rex Heuermann receives fourth charge",
+      "description": "The man is charged again with killing a woman in a string of Long Island murders more than a decade ago.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67947338",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BBA1/production/_132333084_fb7346ccb94478149c4d764714d631302a64e874.jpg",
+      "publishedAt": "2024-01-16T17:22:20.8843567Z",
+      "content": "The suspected Gilgo Beach serial killer Rex Heuermann has been charged with a fourth murder in New York state.\r\nMr Heuermann, 60, was already charged in July with killing three women more than a deca… [+2312 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Cloned rhesus monkey created to speed medical research",
+      "description": "Researchers say it will speed up drug testing but animal rights campaigners have grave concerns.",
+      "url": "https://www.bbc.co.uk/news/science-environment-67987633",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA2B/production/_132334046_monkeynew.jpg",
+      "publishedAt": "2024-01-16T16:52:21.0099703Z",
+      "content": "Chinese researchers have cloned the first rhesus monkey, a species which is widely used in medical research because its physiology is similar to humans.\r\nThey say they could speed up drug testing, as… [+5142 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Uniqlo sues Shein over claims firm copied viral shoulder bag",
+      "description": "Uniqlo has filed a lawsuit demanding the online retailer stops selling the bags immediately.",
+      "url": "https://www.bbc.co.uk/news/business-67994135",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A26F/production/_132338514_gettyimages-1252228440.jpg",
+      "publishedAt": "2024-01-16T14:37:17.0193962Z",
+      "content": "Uniqlo is suing Shein over claims the Chinese fast fashion giant is selling copycats of its viral \"Mary Poppins\" shoulder bag.\r\nThe legal case filed in Tokyo alleges that some Shein bags \"closely res… [+2701 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Red Sea attacks: Greek vessel hit by missile - reports",
+      "description": "The Malta-flagged carrier is said to have sustained only minor damage and is heading to port.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67992600",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B030/production/_132340154_gettyimages-497978357.jpg",
+      "publishedAt": "2024-01-16T13:37:16.9424476Z",
+      "content": "A Malta-flagged, Greek-owned vessel has been hit with a missile in the Red Sea off the coast of Yemen, maritime security firm Ambrey has said.\r\nIt is thought to be the third incident involving the bu… [+2212 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Golriz Ghahraman: New Zealand MP resigns following shoplifting allegations",
+      "description": "Golriz Ghahraman says stress at work led her to act in ways that have let a lot of people down.",
+      "url": "https://www.bbc.co.uk/news/world-asia-67992597",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18685/production/_132337999_gettyimages-871452218.jpg",
+      "publishedAt": "2024-01-16T10:52:14.5512018Z",
+      "content": "A New Zealand MP has resigned following multiple allegations of shoplifting, which police are investigating. \r\nGolriz Ghahraman, of the Green Party, is alleged to have stolen three times from two clo… [+2283 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Josef Fritzl could be moved to care home - reports",
+      "description": "The sex offender, who is now 88 and has dementia, was jailed for life in 2009 in a case that shocked the world.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67989191",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A959/production/_132335334_mediaitem132335333.jpg",
+      "publishedAt": "2024-01-16T08:22:14.300853Z",
+      "content": "Josef Fritzl, the Austrian sex offender who locked his daughter in a cellar for 24 years and fathered seven children with her, could be moved from a high-security prison, local media reports.\r\nFritzl… [+1398 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US condemns Iran for 'reckless' attacks on Iraq",
+      "description": "Iran says it struck Israeli \"spy headquarters\" in northern Iraq with ballistic missiles.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67989193",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EF9/production/_132335758_aftermath.jpg",
+      "publishedAt": "2024-01-16T05:22:13.9418Z",
+      "content": "The US has condemned Iran over missile attacks near Iraq's northern city of Irbil, calling them \"a reckless and imprecise set of strikes\".\r\nIran's Revolutionary Guards said they struck Israeli \"spy h… [+1992 chars]"
+    }
+  ]
+}
